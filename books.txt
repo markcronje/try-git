@@ -1,4 +1,7 @@
-git st
+git commit git st
 Lord of the rings
 Lord of the bling
 The monster dog
+Gary to goblet
+Pig and Horse books
+ 
